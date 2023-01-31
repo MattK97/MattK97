@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MattK97
+- 👋 Hi, I’m Matt
 - 👀 I’m interested in Mobile tech
 - 🌱 I’m currently learning Flutter, iOS
 
