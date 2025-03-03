@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m interested in Mobile tech
-- 🌱 I’m currently learning Flutter, iOS
+- 👀 I’m interested in mobile stuff 
 - Checkout my latest app : [Tattoo.ai](https://apps.apple.com/us/app/tattoo-ai/id1659831072)
 <!---
 MattK97/MattK97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
